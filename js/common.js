@@ -203,37 +203,3 @@ function byebye(){
     });
 }
 
-//sound
-if (annyang) {
-
-  var commands = {
-    'hello': function(){ soundhelp(); },
-    'over': function(){ soundhelpClose(); },
-    'contact (you)': function() { $('.tel_me').click(); },
-    'close': function(){ $('.tip_close,.tip_area_close').click(); },
-    'print (now)': function(){ $('.button_print').click(); },
-    '(your) works': function(){ $('.product_1').click(); },
-    'previous': function(){ $('.carousel-control.left').click(); },
-    'next': function(){ $('.carousel-control.right').click(); },
-    'up': function(){ $('.carousel-control.left').click(); },
-    'down': function(){ $('.carousel-control.right').click(); },
-
-    //product
-    '(number) 1': function(){ $('.product_1').click(); },
-    '(number) 2': function(){ $('.product_2').click(); },
-    '(number) 3': function(){ $('.product_3').click(); },
-    '(number) 4': function(){ $('.product_4').click(); },
-    '(number) 5': function(){ $('.product_5').click(); },
-    '(number) more': function(){ $('.btn_more').click(); },
-
-    'goodbye': function(){ byebye(); }
-
-  };
-
-  // Add our commands to annyang
-  annyang.addCommands(commands);
-
-  // Start listening.
-  annyang.start();
-
-}
