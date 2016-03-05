@@ -61,9 +61,9 @@ input:-moz-placeholder { color: rgba(255,255,255,0.5); }
 .r5 { border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; }
 .circle { border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; }
 .count { font-style: italic; }
-.desc { color: #999; }
+.desc { color: #8c8c8c; }
 i { font-size: 16px; }
-.info_area h5 { font-size: 12px; line-height: 25px; font-weight: normal; border-bottom: 1px #ddd solid; padding: 50px 0 10px; margin-bottom: 15px; }
+.info_area h5 { font-size: 16px; line-height: 25px; font-weight: normal; border-bottom: 1px #ddd solid; padding: 50px 0 10px; margin-bottom: 15px; }
 .info_area h5 i { float: left; margin-right: 5px; }
 .mt20 { margin-top: 20px; }
 
@@ -107,7 +107,7 @@ i { font-size: 16px; }
 
 .avatar b { width: 36px; height: 20px; line-height: 20px; background-color: #ccc; color: #fff; position: absolute; top: 50%; right: -18px; margin-top: -10px; text-align: center; font-weight: normal; }
 .base { padding: 27px 0 0; position: relative; }
-.base p { color: #aaa; line-height: 20px; }
+.base p { color: #aaa; line-height: 20px;font-size: 14px; }
 .base p.desc { color: #ccc; }
 .base h2 { font-size: 32px; color: #999; font-weight: normal; padding: 5px 0; }
 .base span p { padding: 0 0 10px; }
