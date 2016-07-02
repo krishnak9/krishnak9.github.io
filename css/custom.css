@@ -16,17 +16,16 @@
 }
 #tablet-content{
 	margin-top: 40px;
-	padding-top: 0px;
-	border: 5px solid transparent;
-	border-left-color: grey;
-	padding-left: 20px;
+	//background-color: #B3E5FC;
+	text-align:center;
+	padding:20px;
+	//box-shadow: 0 0 2px;
 }
 .computer{
 	background-image: url("../images/apple.png");
 	height:480px;
 	background-repeat: no-repeat;
-	//background-size: 100%;
-	//background-position:center;
+	
 }
 #tv-content{
 	position: relative;
@@ -37,4 +36,10 @@
 	width:66%;
 	background-size: 100%;
 	
+}
+.about-me{
+	display: none;
+}
+.skills{
+	text-align: left;
 }
