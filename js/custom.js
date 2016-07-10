@@ -1,5 +1,6 @@
 $(document).ready(function (){
-	
+	 $(".my-about").css("display","block").animate({width:"100%"},1000);
+   $("#title").html("About Me");
   $( ".projects" ).click(function() {
 	$("#title").html("Projects"); 
 	$(".my-about").css({"display":"none","width":"100px"});
@@ -23,10 +24,14 @@ $(document).ready(function (){
 	  $("#title").html("About Me");
 	  $(".my-projects").css({"display":"none","width":"100px"});
 	 $(".my-skills").css("display","none");
-	 $(".my-about").css("display","block").animate({width:"100%"},1000);;
+	 $(".my-about").css("display","block").animate({width:"100%"},1000);
   });
   $( "#cross-button" ).click(function() {
 	  $(".overlay").css("display","none");
+  });
+  $( "#cap-button" ).click(function() {
+	  $(".overlay").css("display","block");
+    $(".overlay-content").html("<iframe src='Capacitance_meter.pdf' width='100%' height='440px;'></iframe>");
   });
 });
 
