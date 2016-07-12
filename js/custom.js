@@ -53,6 +53,11 @@ $(document).ready(function (){
 	  $(".overlay").css("display","block");
     $(".overlay-content").html("<iframe src='Capacitance_meter.pdf' width='100%' height='440px;'></iframe>");
   });
+  
+  $( "#microsoft" ).click(function() {
+	  $(".overlay").css("display","block");
+    $(".overlay-content").html("<iframe src='Certificate_1.pdf' width='100%' height='440px;'></iframe>");
+  });
 });
 
 //youtube plugin api
