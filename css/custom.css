@@ -177,6 +177,7 @@ html, body {
 .my-skills{
 	display: none;
 	width:80%;
+	padding-top:80px;
 	
 }
 .my-about{
