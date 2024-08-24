@@ -1,0 +1,81 @@
+[
+    {
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-11-16-Test-page7"
+    ,"date"     : "16 Nov, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-10-15-Test-page6"
+    ,"date"     : "15 Out, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, test"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-10-14-Test-page5"
+    ,"date"     : "14 Out, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, example post"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-09-13-Test-page4"
+    ,"date"     : "13 Set, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, sample"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-09-12-Test-page3"
+    ,"date"     : "12 Set, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, test"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-08-11-Test-page2"
+    ,"date"     : "11 Ago, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Amostra"
+    ,"category" : "auto generated"
+    ,"tags"     : "jekyll, example post"
+    ,"url"      : "http://localhost:4000/blog/pt/2021-08-10-Test-page1"
+    ,"date"     : "10 Ago, 2021"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Projetos"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "http://localhost:4000/blog/pt/tabs/projects.html"
+    ,"date"     : "24 Ago, 2024"
+    ,"content"  : "main header Projetos info Descrição do seu projeto. text_color white img :projects-heading.jpg back_color lightblue category title Exemplo type id_example color gray title Imagem type id_picture color #62b462 title Citação type id_quote color #2FD0ED list type id_example project_name Exemplo de Projeto project_excerpt Exemplos img :project1_thumb.jpg img_title img title1 date 2021-03-13 post # Examples This is an example page to display markdown related styles for Mr. Green Jekyll Theme. ### Headings (centered) :data-align=\\ center\\ # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 *** ### Paragraphs #### Paragraph **William Shakespeare** Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. #### Texts Quoted text `Hello world` Bold text **Hello world** Italic text _Hello world_ kbd text <kbd>Hello world</kbd> #### Blockquote > **William Shakespeare** Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. ### Link This is Mr. Green Jekyll Theme(https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) a simple theme built for Jekyll(https://jekyllrb.com/). ### Picture !such a lovely place(:projects-heading.jpg) ### Picture (centered) !such a lovely place(:project1_thumb.jpg):data-align=\\ center\\ ### Lists - Apple - Banana - Orange 1. Fruits 1. Apples - Granny Smith - Mutsu 1. Bananas - Cavendish - Red 1. Vegetables *** ### Tables #### Small Table (centered) | Fruits(not aligned) | Alignment (centered) | num (right align) | | ------------------- | :------------------: | ----------------: | | Apple | centered | 9999 | | Banana | centered long text | 999 | | Orange | centered | 99 | | Lemon | centered | 9 | :data-align=\\ center\\ #### Wide Table (centered) scroll enabled when page is narrow | Fruits | num (left align) | num (right align) | num | num | num | | ------ | :--------------- | ----------------: | ---- | ---- | ---- | | Apple | 1111 | 1111 | 2222 | 3333 | 4444 | | Banana | 111 | 111 | 222 | 333 | 444 | | Orange | 11 | 11 | 22 | 33 | 44 | | Lemon | 1 | 1 | 2 | 3 | 4 | :data-align=\\ center\\ #### Wider Table scroll enabled when page is narrow | Fruits | num (left align) | num (right align) | num | num | num | num | num | num | | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- | | Apple | 1111 | 1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 | | Banana | 111 | 111 | 222 | 333 | 444 | 555 | 666 | 777 | | Orange | 11 | 11 | 22 | 33 | 44 | 55 | 66 | 77 | | Lemon | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | ### Code #### Quote ```python for i in range(5 10): print(i) ``` type id_picture project_name Exemplo de Projeto project_excerpt Imagem img :project2_thumb.jpg img_title img title2 date 2021-04-23 post # Title This is project content. !Image(:project2_thumb.jpg) type id_quote project_name Exemplo de Projeto project_excerpt William Shakespeare date 2021-05-27 post Let me not to the marriage of true minds Admit impediments. Love is not love Which alters when it alteration finds Or bends with the remover to remove. O no it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand'ring barque Whose worth's unknown although his height be taken. Love's not Time's fool though rosy lips and cheeks Within his bending sickle's compass come; Love alters not with his brief hours and weeks But bears it out even to the edge of doom. If this be error and upon me proved I never writ nor no man ever loved. type id_quote project_name Exemplo de Projeto project_excerpt Albert Einstein img :project2_thumb.jpg img_title img title4 date 2021-06-08 post Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. type id_quote project_name Exemplo de Projeto project_excerpt Mae West img :project1_thumb.jpg img_title img title5 date 2021-08-20 post You only live once but if you do it right once is enough. type id_quote project_name Exemplo de Projeto project_excerpt Mahatma Gandhi img :project2_thumb.jpg img_title img title6 date 2021-12-20 post Be the change that you wish to see in the world."
+  },{
+    "title"    : "Links"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "http://localhost:4000/blog/pt/tabs/links.html"
+    ,"date"     : "24 Ago, 2024"
+    ,"content"  : "main header Links info Uma descrição para sua página de links. category title JekyII / Liquid type id_jekyiiliquid color gray title Web Design type id_webdesign color #F4A273 title Programação type id_programming color #62b462 list nil type id_programming title Stack OverFlow url https://stackoverflow.com/ info Stack Overflow é um site voltado para perguntas e respostas para professionais e entusiastas da programação. type id_jekyiiliquid title Jekyll url https://jekyllrb.com/ info Transforme o seu simples texto em websites estáticos e blogs. type id_jekyiiliquid title Tabela rápida para Jekyll url https://cloudcannon.com/community/jekyll-cheat-sheet/ info Existem tantos filtros e variáveis em Jekyll para se lembrar que pode ser difícil lembrar de todos. Essa tabela serve como uma rápida referência para tudo que Jekyll é capaz de fazer. type id_jekyiiliquid title Liquid para Designers url https://github.com/Shopify/liquid/wiki/Liquid-for-Designers info Wiki do Liquid para Designers no GitHub type id_jekyiiliquid title Liquid para Programadores url https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers info Wiki de Liquid para Programadores no GitHub type id_jekyiiliquid title Referências de Liquid url https://shopify.dev/api/liquid/ info Liquid é uma linguagem modelo create pelo Shopify e escrita em Ruby. Ela agora está disponível em código aberto no GitHub. type id_webdesign title W3Schools url https://www.w3schools.com/ info W3Schools oferece tutoriais gratuitos referências e exercícios nas linguagens mais importantes da web cobrindo a mais populares como HTML CSS JavaScript Python SQL Java e mutio mais."
+  },{
+    "title"    : "Bem vindo"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "http://localhost:4000/blog/pt/"
+    ,"date"     : "24 Ago, 2024"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  },{
+    "title"    : "Sobre"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "http://localhost:4000/blog/pt/tabs/about.html"
+    ,"date"     : "24 Ago, 2024"
+    ,"content"  : "Olá Amostra Amostra Amostra Amostra Amostra"
+  }
+  ]
+
